@@ -4,3 +4,5 @@ I was stuck between choosing the [Academic Free License](https://opensource.org/
 
 
 ## Code of Conduct ##
+
+After doing a Google Search for Open-Source Code of Conducts, the first and most popular search result was the Contributor Cove
